@@ -1,0 +1,17 @@
+
+
+package act1;
+
+public class Act1 {
+
+    
+    public static void main(String[] args) {
+    System.out.println("Name: Abear, Van Ria");
+    System.out.println("Age: 19");
+    System.out.println("Gender: Female");
+    System.out.println("Address: Taloot, Argao, Cebu");
+    System.out.println("Civil Status: Single");
+    System.out.println("# of Brothers/Sisters: 2");
+    }
+    
+}
